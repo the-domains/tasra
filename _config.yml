@@ -23,8 +23,8 @@ color:
     - '#816c53'
   brandStrength: 0.5
   lightness: 1
-  saturation: 0.1875
-  rhythmicContrast: 0.75
+  saturation: 0
+  rhythmicContrast: 0
 purpose:
   - name: stars
     item: null
