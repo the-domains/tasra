@@ -22,9 +22,9 @@ color:
     - '#2c2723'
     - '#080705'
   brandStrength: 0.5
-  lightness: 1
-  saturation: 0
-  rhythmicContrast: 0
+  lightness: 0.4375
+  saturation: 0.875
+  rhythmicContrast: 0.75
 purpose:
   - name: stars
     item: null
