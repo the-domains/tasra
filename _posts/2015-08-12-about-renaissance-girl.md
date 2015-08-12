@@ -1,7 +1,7 @@
 ---
 isBasedOnUrl: 'http://renaissancegirl.me/about/'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - wake
   - life
@@ -19,7 +19,7 @@ related: []
 app_links: []
 title: Renaissance Girl
 datePublished: '2015-08-12T01:38:05.683Z'
-dateModified: '2015-08-12T01:59:17.474Z'
+dateModified: '2015-08-12T06:19:33.304Z'
 sourcePath: _posts/2015-08-12-about-renaissance-girl.md
 published: true
 tags:
