@@ -17,9 +17,9 @@ description: 'The Moment Everything Changed It happened October 2011. I was walk
 author: []
 related: []
 app_links: []
-title: About - Renaissance Girl
+title: Renaissance Girl
 datePublished: '2015-08-12T01:38:05.683Z'
-dateModified: '2015-08-12T01:45:25.884Z'
+dateModified: '2015-08-12T01:50:26.199Z'
 sourcePath: _posts/2015-08-12-about-renaissance-girl.md
 published: true
 tags:
