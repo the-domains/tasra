@@ -19,7 +19,7 @@ related: []
 app_links: []
 title: Renaissance Girl
 datePublished: '2015-08-12T01:38:05.683Z'
-dateModified: '2015-08-12T01:50:26.199Z'
+dateModified: '2015-08-12T01:54:53.079Z'
 sourcePath: _posts/2015-08-12-about-renaissance-girl.md
 published: true
 tags:
