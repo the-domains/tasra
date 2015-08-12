@@ -1,15 +1,14 @@
 ---
+isBasedOnUrl: 'https://instagram.com/p/6MYh49DPLW/?taken-by=tasradawson'
+inLanguage: null
+starred: false
+keywords: []
+description: Experimenting with double exposure. Me and nature as one. What do you think?
 author:
   - name: tasradawson
     url: 'https://instagram.com/tasradawson'
     avatar: {}
 related: []
-publisher:
-  url: 'https://instagram.com/'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/61d683a/images/ico/favicon.ico'
-  domain: instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=1048320695283282646'
     type: ios
@@ -19,12 +18,19 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-isBasedOnUrl: 'https://instagram.com/p/6MYh49DPLW/?taken-by=tasradawson'
-title: Experimenting with double exposure. Me and nature as one. What do you think?
+title: Natural Woman
 datePublished: '2015-08-11T23:52:25.481Z'
-dateModified: '2015-08-11T23:52:25.481Z'
+dateModified: '2015-08-12T00:06:54.393Z'
 sourcePath: _posts/2015-08-11-experimenting-with-double-exposure-me-and-nature-as-one-wh.md
 published: true
+tags:
+  - ''
+authors: []
+publisher:
+  name: Instagram
+  domain: instagram.com
+  url: 'https://instagram.com/'
+  favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/61d683a/images/ico/favicon.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
