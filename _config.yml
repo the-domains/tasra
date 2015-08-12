@@ -22,9 +22,9 @@ color:
     - '#b7b4ab'
     - '#6c5044'
   brandStrength: 0.5
-  lightness: 0.4375
-  saturation: 0.875
-  rhythmicContrast: 0.75
+  lightness: 0.875
+  saturation: 0.4375
+  rhythmicContrast: 0.5
 purpose:
   - name: stars
     item: null
