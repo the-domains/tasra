@@ -20,7 +20,7 @@ app_links:
     package: com.instagram.android
 title: Embrace Your Audacious Dreams
 datePublished: '2015-08-11T23:53:03.735Z'
-dateModified: '2015-08-12T00:06:53.908Z'
+dateModified: '2015-08-12T01:59:17.497Z'
 sourcePath: _posts/2015-08-11-you-make-time-for-what-you-want-if-youre-not-prioritizing.md
 published: true
 tags:
